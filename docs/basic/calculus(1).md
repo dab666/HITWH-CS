@@ -4,7 +4,6 @@
 
 <div class="badges">
 <span class="badge se-badge">SE <专业必修></span>
-<span style="color: purple;">紫丁香&lt;专业基础&gt;</span>
 </div>
 
 
